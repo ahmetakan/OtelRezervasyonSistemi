@@ -1,0 +1,12 @@
+
+
+Admin 
+---------------------
+Kullanıcı adı : admin
+Sifre : 123456
+
+
+Müşteri 
+-----------------------
+Kullanıcı adi : musteri
+Sifre : 123456
